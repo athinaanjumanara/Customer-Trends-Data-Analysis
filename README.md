@@ -1,0 +1,5 @@
+• Conducted end-to-end data analysis on a retail customer shopping behavior dataset covering 3,900 customers using Python, SQL, and Power BI following industry-standard analytical workflow
+• Performed data cleaning and exploratory data analysis (EDA) using Python and Pandas — handled missing values, standardized column formats, and uncovered patterns in customer purchasing behavior across categories, seasons, and demographics
+• Loaded cleaned data into a relational database and wrote structured SQL queries to extract key business insights including top spending customer segments, most popular product categories, payment method trends, and seasonal buying patterns
+• Built an interactive Power BI dashboard highlighting key patterns and trends to enable stakeholders to make data-driven decisions — customized with unique visual design including color themes, KPI cards, filters and slicers
+• Solved a real business problem: identifying which customer segments, product categories and seasons drive the most revenue — providing actionable recommendations a retail business could use to optimize marketing and inventory strategies
